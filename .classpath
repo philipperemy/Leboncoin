@@ -3,29 +3,29 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_31"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
-	<classpathentry kind="lib" path="C:/Users/UX31E/workspace/Leboncoin/lib/commons-codec-1.8.jar"/>
-	<classpathentry kind="lib" path="C:/Users/UX31E/workspace/Leboncoin/lib/commons-collections-3.2.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/UX31E/workspace/Leboncoin/lib/commons-io-2.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/UX31E/workspace/Leboncoin/lib/commons-lang3-3.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/UX31E/workspace/Leboncoin/lib/commons-logging-1.1.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/UX31E/workspace/Leboncoin/lib/cssparser-0.9.11.jar"/>
-	<classpathentry kind="lib" path="C:/Users/UX31E/workspace/Leboncoin/lib/htmlunit-2.13.jar"/>
-	<classpathentry kind="lib" path="C:/Users/UX31E/workspace/Leboncoin/lib/htmlunit-core-js-2.13.jar"/>
-	<classpathentry kind="lib" path="C:/Users/UX31E/workspace/Leboncoin/lib/httpclient-4.3.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/UX31E/workspace/Leboncoin/lib/httpcore-4.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/UX31E/workspace/Leboncoin/lib/httpmime-4.3.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/UX31E/workspace/Leboncoin/lib/javaee.jar"/>
-	<classpathentry kind="lib" path="C:/Users/UX31E/workspace/Leboncoin/lib/javax.mail.jar"/>
-	<classpathentry kind="lib" path="C:/Users/UX31E/workspace/Leboncoin/lib/jetty-http-8.1.12.v20130726.jar"/>
-	<classpathentry kind="lib" path="C:/Users/UX31E/workspace/Leboncoin/lib/jetty-io-8.1.12.v20130726.jar"/>
-	<classpathentry kind="lib" path="C:/Users/UX31E/workspace/Leboncoin/lib/jetty-util-8.1.12.v20130726.jar"/>
-	<classpathentry kind="lib" path="C:/Users/UX31E/workspace/Leboncoin/lib/jetty-websocket-8.1.12.v20130726.jar"/>
-	<classpathentry kind="lib" path="C:/Users/UX31E/workspace/Leboncoin/lib/nekohtml-1.9.19.jar"/>
-	<classpathentry kind="lib" path="C:/Users/UX31E/workspace/Leboncoin/lib/opencsv-2.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/UX31E/workspace/Leboncoin/lib/sac-1.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/UX31E/workspace/Leboncoin/lib/serializer-2.7.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/UX31E/workspace/Leboncoin/lib/xalan-2.7.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/UX31E/workspace/Leboncoin/lib/xercesImpl-2.11.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/UX31E/workspace/Leboncoin/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.8.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/cssparser-0.9.11.jar"/>
+	<classpathentry kind="lib" path="lib/htmlunit-2.13.jar"/>
+	<classpathentry kind="lib" path="lib/htmlunit-core-js-2.13.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="lib/httpmime-4.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/javaee.jar"/>
+	<classpathentry kind="lib" path="lib/javax.mail.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-http-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-io-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-util-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-websocket-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="lib/nekohtml-1.9.19.jar"/>
+	<classpathentry kind="lib" path="lib/opencsv-2.3.jar"/>
+	<classpathentry kind="lib" path="lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="lib/xml-apis-1.4.01.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
