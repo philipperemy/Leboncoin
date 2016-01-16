@@ -17,7 +17,7 @@ public class NameFactory
 
     public static final String WINE_CATEGORY_ID     = "48";
 
-    public static final int    ORIG_YEAR            = 2014;
+    public static final int    ORIG_YEAR            = 2016;
 
     public static final String CONF_PATH_FILE       = "conf/conf.csv";
     public static final String PERSISTENCE_CSV      = "conf/persistence.csv";

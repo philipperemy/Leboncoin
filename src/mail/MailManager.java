@@ -26,10 +26,15 @@ public class MailManager {
 			int attempts) {
 		try {
 			Properties props = System.getProperties();
-			props.setProperty("mail.store.protocol", "imaps");
+			props.setProperty("mail.smtp.host", "smtp.gmail.com");
+			props.setProperty("mail.smtp.socketFactory.port", "465");
+			props.setProperty("mail.smtp.socketFactory.class", "javax.net.ssl.SSLSocketFactory");
+			props.setProperty("mail.smtp.auth", "true");
+			props.setProperty("mail.smtp.port", "465");
+			
 			Session session = Session.getDefaultInstance(props, null);
 			Store store = session.getStore("imaps");
-			store.connect("imap.gmail.com", DefaultUserConf.EMAIL,
+			store.connect("smtp.gmail.com", DefaultUserConf.EMAIL,
 					DefaultUserConf.PASSWORD);
 
 			Folder inbox = store.getFolder("Inbox");
